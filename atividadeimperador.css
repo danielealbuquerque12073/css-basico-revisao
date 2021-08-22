@@ -1,0 +1,30 @@
+h1{
+	text-align: right;
+}
+table{
+	margin: auto;
+}
+
+td.imperador1{
+	color: blue;
+	background-color: salmon;
+}
+td.imperador2 {
+	color: green;
+	background-color: orange;
+}
+td.imperador3{
+	color: red;
+	background-color: tan;
+}
+td.reign1{
+	background-color: blue;
+
+
+}
+td.reign2{
+background-color:tan;
+}
+td.reign3{
+background-color:beige;
+}
